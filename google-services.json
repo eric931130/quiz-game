@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "869586666345",
+    "project_id": "open-ac3bd",
+    "storage_bucket": "open-ac3bd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:869586666345:android:89649e90249e6fbe03b3f8",
+        "android_client_info": {
+          "package_name": "com.example.quizgame"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "869586666345-fv61ppqan91qkp40njrbd6qt09c9oabf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMjdro0e0dpBO7sIOubohUKPTfs519zZs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "869586666345-fv61ppqan91qkp40njrbd6qt09c9oabf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
